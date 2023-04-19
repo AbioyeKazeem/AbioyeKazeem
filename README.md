@@ -6,7 +6,7 @@ An IT Savvy and skilled in website design and web application development with p
 Few of my tractions are:
 - Development of hostel portal application for Federal College of education Osiele Abeokuta(www.fceabkstudentaffairs.com) 
 - Front-end developer on vtpass project (https://www.vtpass.com/)
-- Front-end developer on Cradle Hive for NPDC (https://nnpc.cradlehive.com/)
+- Front-end developer on Cradle Hive for NUIMS(https://napims.cradlehive.com/)
 - Tovs E-Voting Application development. 
 - and some other couple of web related projects
 - You can reach me via abioyebabatunde@gmail.com
